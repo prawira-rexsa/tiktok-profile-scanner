@@ -10,7 +10,7 @@ Alat berbasis Python untuk melakukan ekstraksi data profil TikTok melalui antarm
 - **Pengunduh Kualitas HD:** Algoritma otomatis untuk mencari dan mengunduh foto profil dengan resolusi maksimal (hingga 1080x1080).
 - **Manajemen File:** Penyimpanan otomatis hasil unduhan ke dalam direktori terorganisir dengan penamaan file berbasis timestamp.
 
-### 1. Informasi Profil (Terminal Output)
+### Informasi Profil (Terminal Output)
 Data yang berhasil diambil dari skrip meliputi:
 - **Username:** ID unik pengguna TikTok.
 - **Nama Lengkap:** Nama tampilan (nickname) yang digunakan profil.
